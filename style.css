@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to top, #cf7763, #ffffff);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  height: 100%;
+  margin: 0;
+}
+
+.image  {
+  border-radius: 10px 10px 10px 10px;
+  width: 60%;
+  height: auto;
+}
+
+.title, .text {
+  padding: 20px;
+}
+
+ul, ol {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.html {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.odkazGitHub {
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+
+/*
+.odkazGitHub:hover {
+
+}
+*/
